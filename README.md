@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MindScientist
-- 👀 I’m interested in JavaScript as fastly developing language.
+- 👀 I’m interested in JavaScript, Solidity, Nodejs, Vue, React, microservices architecture, blockchain programming.
 - 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on my project 'Trader journal'.
 - 📫 How to reach me: azharinov@gmail.com
