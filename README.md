@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MindScientist
-- 👀 I’m interested in JavaScript, Solidity, Nodejs, Vue, React, microservices architecture, blockchain programming.
-- 🌱 I’m currently learning Node.js.
-- 💞️ I’m looking to collaborate on my project 'Trader journal'.
+- 👀 I’m interested in JavaScript, Solidity, React, Nodejs, Vue, blockchain programming.
+- 🌱 I’m currently learning Node.js, React and blockchain developing.
+- 💞️ I’m looking to collaborate on my project 'Trader deals journal'.
 - 📫 How to reach me: azharinov@gmail.com
 
 <!---
